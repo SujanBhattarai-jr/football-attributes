@@ -76,7 +76,7 @@ be combined if necessary.
 
 ```{r, warning=FALSE, message=FALSE}
 #read the csv file
-player_attr <- read_csv(here("featured_projects/data_viz/player_attr.csv"))
+player_attr <- read_csv(here("featured_projects/data_viz/data/player_attr.csv"))
 
 ```
 
