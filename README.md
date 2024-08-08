@@ -1,5 +1,5 @@
 # European Soccer Players Attributes Comparison
-![Infographics](static_image/infographics.png)
+
 ## Introduction
 
 This project aims to visualize and compare attributes of soccer players sourced from a European soccer database available on Kaggle. The dataset contains data on over 10,000 players, and using R exclusively, the visualization focuses on attributes such as shooting, finishing, strength, age, etc. The infographic presents insights into the differences in player attributes between advanced, intermediate, and novice categories, as classified based on FIFA average ratings from 2008 to 2016.
@@ -26,7 +26,8 @@ Lionel Messi, often considered the world's best player, does not stand out signi
 
 To view the complete infographic with detailed insights and visualizations, download or clone this repository and open the `infographics_draft.png` file. For a more interactive experience and access to the code behind the visualizations, explore the RMarkdown file `index.qmd`.
 
-## Credits
+## Final image
+![Infographics](static_image/infographics.png)
 
 -   Data Source: European Soccer Database on Kaggle
 -   UFO Alien Template: [UFO link](https://github.com/doehm/tidytues/blob/main/scripts/2023/week-25-ufo/ufo.png)
