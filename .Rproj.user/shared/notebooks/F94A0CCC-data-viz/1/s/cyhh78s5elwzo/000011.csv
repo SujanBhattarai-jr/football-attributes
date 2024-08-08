@@ -1,0 +1,6 @@
+"0","#| echo: true"
+"0","#---this information is not from a source and based on personal preference"
+"0","#---classify the players based on their overall rating"
+"0","player_attr <- player_attr %>% "
+"0","  mutate(player_class = ifelse(overall_rating >= 85, ""Advanced"", "
+"0","                                 ifelse(overall_rating >= 70 & overall_rating < 85, ""Intermediate"", ""Novice"")))"

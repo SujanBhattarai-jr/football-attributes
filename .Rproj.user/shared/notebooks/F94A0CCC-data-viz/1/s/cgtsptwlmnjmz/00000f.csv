@@ -1,0 +1,2 @@
+"0","#suppress all warning and messages with knitr global"
+"0","knitr::opts_chunk$set(warning = FALSE, message = FALSE)"
